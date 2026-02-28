@@ -1,5 +1,5 @@
 {
-    "enabled": true,
+    "enabled": false,
     "min_version": "1.0.0",
     "message": "Ứng dụng đang hoạt động bình thường"
 }
